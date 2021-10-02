@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+     "airlineName":"Indigo",
+     "flightNumber":"12345",
+     "fromPlace":"Delhi",
+     "toPlace":"Pune",
+     "price":2000,
+     "date":"20-08-2021"
+    },
+    {
+      "id": 2,
+     "airlineName":"FlyWay",
+     "flightNumber":"98745",
+     "fromPlace":"Delhi",
+     "toPlace":"Pune",
+     "price":2000,
+     "date":"20-08-2021"
+    },
+    {
+      "id": 3,
+     "airlineName":"GoAir",
+     "flightNumber":"65435",
+     "fromPlace":"Delhi",
+     "toPlace":"Pune",
+     "price":2000,
+     "date":"20-08-2021"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
